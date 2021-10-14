@@ -1,0 +1,8 @@
+{
+    "Usuarios":[
+        {"id":"1","nombre":"sergio","telefono":"1234567890","email":"sergio@yahoo.com"},
+        {"id":"2","nombre":"laura","telefono":"0654321","email":"laura@hotmail.com"},
+        {"id":"56","nombre":"luis","telefono":"5432167890","email":"luis@hola.com.mx"},
+        {"id":"58","nombre":"isabel","telefono":"7565667890","email":"isabel@hola.cat"}
+    ]
+}
